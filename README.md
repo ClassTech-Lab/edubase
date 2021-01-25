@@ -1,13 +1,16 @@
 # ClassTech Lab PJ
 ICTを活用して、学びの場をアップデートする教員・教育委員会のためのプラットフォーム
 現場のEdTech推進を加速させるプロジェクト
+
+ClassTechLabについて
 https://classtech-lab.com/about
 
 ※EdTechとは、デジタルテクノロジーを活用した教育のイノベーション
 
 （教員・教育委員会のICTを活用した授業・学習支援事例のデータベース+検索エンジン、教員の学び合いプラットフォームを作るPJです。）
 
-[説明スライド](https://docs.google.com/presentation/d/1UuOD49tELXyHHB1Ea7qLhdMo1jD33wfZlCnYeymxq58/edit?usp=sharing)
+[説明スライド](https://docs.google.com/presentation/d/16VUdWSSN3ZWutfeRKO7U5_TO7E3tUc3wJU8g9Il81jg/edit?usp=sharing)
+※メモらんに、日本語のテキストもあります
 
 [企画メモ(mission、実装のステップ、サイトUIUXブレスト、前提となる現状の整理)](https://docs.google.com/document/d/1WkpeiijxXMQSrhPCKwp0_4LTSMgY_V5Fmr65_AK4PIo/edit?usp=sharing)
 
